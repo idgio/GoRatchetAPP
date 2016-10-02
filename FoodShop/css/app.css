@@ -1,0 +1,11 @@
+.slider {
+  margin-bottom: 0;
+  background-color: white;
+}
+.slider img {
+  width: auto;
+  height: 240px;
+}
+.content-padded {
+  margin: 30px 15px 15px;
+}
